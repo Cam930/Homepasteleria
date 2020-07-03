@@ -1,0 +1,241 @@
+
+h1 {background-image: url(./iconos/Fondo1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 0em;
+    margin-bottom: 0em;
+     height: 636px;
+     max-width: 100%;}
+    h1 {font-family: sans-serif;
+    font-size: 16px;
+color: #f5f0ed;
+margin-top: 0px;}
+
+.LOGO{ float: left;
+padding-top: 10px;
+padding-left: 40px;}
+.ESPACIO{ float: left;
+padding-left: 570px;
+padding-top: 35px;}
+.PRODUCTOS{ float: left;
+    padding-left: 20px;
+    padding-top: 35px;}
+.OFERTAS {float: left;
+    padding-left: 20px;
+    padding-top: 35px;}
+.RESERVAS {float: left;
+    padding-left: 20px;
+    padding-top: 35px;}
+.CONTACTO {float: left;
+padding-left: 20px;
+padding-top: 35px;}
+
+.TITULOMEDIO{ font-family: sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+    text-align: center;
+    color: #f5f0ed;
+padding-top: 234px;}
+
+.parrafomedio{ font-family: sans-serif;
+    font-size: 16px;
+font-weight: normal;
+text-align: center;
+color: #f5f0ed;
+padding-bottom: 200px;
+margin-bottom: 0em;}
+
+h4{ margin-top: 0em;}
+
+.CAJA1{font-family: sans-serif;
+font-size: 24px;
+color: #f5f0ed;
+text-align: center;
+width: 50%;
+height: 410px;
+background-color: #d03b40;
+float: left;
+min-width: 321px;
+min-height: 270px;}
+
+.parrafo1{ font-size: 16px;
+padding-top: 25px;
+font-weight: normal;
+text-align: center;}
+
+.CAJA2 {float: right;
+font-family: sans-serif;
+font-size: 24px;
+text-align: center;
+color:  #d03b40;
+background-color: #ded6c0;
+width: 50%;
+height: 410px;
+min-width: 321px;
+min-height: 270px; }
+
+.parrafo2 { font-family: sans-serif;
+font-size: 16px;
+text-align: center;
+font-weight: normal;
+color: #d03b40;
+padding-top: 25px;}
+
+h5{background-image: url(./iconos/Fondo2.jpg);
+    background-size: cover;
+    padding-top: 400px;
+    max-width: 100%;
+    margin-bottom: 0em;
+    height: 549px;
+}
+
+.TITULO{font-family: sans-serif;
+    font-size: 44px;
+text-align: center;
+color: #f5f0ed;
+padding-top: 163px;}
+
+.linea{font-weight: normal;
+    color: #f5f0ed;
+text-align: center;}
+
+.parrafo3 {font-family: sans-serif;
+text-align: center; 
+font-size: 16px;
+font-weight: normal;
+color: #f5f0ed;}
+
+.parrafo4 {font-family: sans-serif;
+    border-style: solid;
+    height: 46px;
+    width: 290px;
+    box-shadow: 5px 5px 18px 2px grey;
+    margin-left: 520px;
+    text-align: center; 
+    font-size: 16px;
+    font-weight: normal;
+    color: #f5f0ed;
+    padding-left: 10px;
+    padding-right: 10px;}
+
+    h6{background-color: #f5f0ed;
+    margin-top: 0em;
+padding-top: 87px;
+height: 520px;
+margin-bottom: 0px;}
+
+    .bloque1{font-family: sans-serif;
+        color:#241d1b;
+    font-size: 24px;
+text-align: left;
+font-weight: bolder;
+width: 300px;
+float: left; }
+
+.subtitulo1{font-family: sans-serif;
+    color: #241d1b;
+font-size: 16px;
+text-align: left;
+font-weight: normal;
+width: 397px;
+margin-top: 10px;
+float: left;}
+
+.icono1{ width: 174px;
+margin-right: 20px;
+padding-left: 30px;
+float: left;}
+
+.icono2{float: left;
+padding-left: 190px;
+padding-right: 20px;}
+
+.bloque2{font-family: sans-serif;
+    color:#241d1b;
+font-size: 24px;
+text-align: left;
+font-weight: bolder;}
+
+.subtitulo2{font-family: sans-serif;
+    color:#241d1b;
+    font-size: 16px;
+    text-align: left;
+    font-weight: normal;
+padding-bottom: 120px;}
+
+
+.icono3{ padding-right: 20px;
+padding-left: 30px;
+float: left;}
+
+.bloque3{font-family: sans-serif;
+    color:#241d1b;
+font-size: 24px;
+text-align: left;
+font-weight: bolder;
+float: left;}
+
+.subtitulo3{font-family: sans-serif;
+    font-size: 16px;
+    text-align: left;
+    font-weight: normal;
+float: left;
+padding-right: 130px}
+
+.bloque4{font-family: sans-serif;
+    color:#241d1b;
+font-size: 24px;
+text-align: left;
+font-weight: bolder;
+float: left;}
+
+.subtitulo4{font-family: sans-serif;
+    font-size: 16px;
+    text-align: left;
+    font-weight: normal;
+float: left;}
+
+.icono4{ float: left;
+padding-right: 20px;}
+
+.CAJA3{ background-color: #ded6c0;
+    height: 274px;
+text-align: center;
+width: 50%;
+padding-top: 133px;
+font-family: sans-serif;
+font-size: 24px;
+font-weight: bold;
+color:  #d03b40;
+float: left;}
+
+.parrafo5{font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+    font-weight: normal;
+    color: #d03b40;
+    padding-top: 25px; }
+
+    .correo{font-family: sans-serif;
+        font-size: 16px;
+        text-align: center;
+        font-weight: bolder;
+        color: #d03b40;}
+        
+        .CAJA4{background-color:  #d03b40de;
+            height: 274px;
+        text-align: center;
+        width: 50%;
+        padding-top: 133px;
+        font-family: sans-serif;
+        font-size: 24px;
+        color:   #f5f0ed;
+    font-weight: bold;
+float: right;}
+
+    .parrafo6 {font-family: sans-serif;
+        padding-top: 25px;
+        font-size: 16px;
+        text-align: center;
+        font-weight: normal;
+        color:#f5f0ed;}
