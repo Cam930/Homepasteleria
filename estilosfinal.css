@@ -106,7 +106,7 @@ font-weight: normal;
 color: #f5f0ed;}
 
 .parrafo4 {font-family: sans-serif;
-    border-style: solid;
+    border: 1px solid #f5f0ed;
     height: 46px;
     width: 290px;
     box-shadow: 5px 5px 18px 2px grey;
